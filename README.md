@@ -11,11 +11,14 @@ Ideal para laboratorios, presentaciones académicas o demostraciones en clase de
 
 ⚠️ Nota: `sounddevice` requiere `PortAudio`. En Windows, generalmente funciona directamente. En `Linux/macOS`, puede requerir: 
 
-# macOS
+## macOS
+
 brew install portaudio
 
-# Ubuntu/Debian
+## Ubuntu/Debian
+
 sudo apt-get install portaudio19-dev python3-pyaudio
+
 ---
 
 ## 🖼️ Captura de pantalla
